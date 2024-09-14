@@ -51,7 +51,7 @@ When I'm learning a new technology, I have the habit of taking notes and jotting
 > [!IMPORTANT]
 > Highly recommend reading [Best Documentation Practices](https://github.com/codeacme17/examor/blob/main/docs/best-practices/en-best-practices.md) before uploading notes to optimize your document.
 
-#### Clone this repo
+#### Clone this repo aa
 
 ```bash
 git clone https://github.com/codeacme17/examor.git
